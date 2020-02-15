@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019 Devyn Kaylor-Owens <devynaowens@gmail.com> -->
+<component type="desktop">
+  <id>com.github.Devynko.hello-again</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Hello World App</name>
+  <summary>A Catchy Tagline</summary>
+  <description>
+    <p>Im following the getting started tutorial for creating apps for Elementary OS with Vala and Gtk+.</p>
+  </description>
+</component>
